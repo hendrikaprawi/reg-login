@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost/phpdasar/wpu-login/';
+	public $baseURL = 'http://localhost/phpdasar/reg-login/';
 
 	/**
 	 * --------------------------------------------------------------------------

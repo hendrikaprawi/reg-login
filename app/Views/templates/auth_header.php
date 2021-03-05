@@ -11,12 +11,12 @@
 
     <title><?= $title; ?></title>
     <!-- Custom fonts for this template-->
-    <link href="http://localhost/phpdasar/wpu-login/assets/vendor/fontawesome-free/css/all.css" rel="stylesheet">
+    <link href="http://localhost/phpdasar/reg-login/assets/vendor/fontawesome-free/css/all.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet"> -->
 
     <!-- Custom styles for this template-->
-    <link href="http://localhost/phpdasar/wpu-login/assets/css/sb-admin-2.css" rel="stylesheet">
+    <link href="http://localhost/phpdasar/reg-login/assets/css/sb-admin-2.css" rel="stylesheet">
 
 </head>
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-light">
